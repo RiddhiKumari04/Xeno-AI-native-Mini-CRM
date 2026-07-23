@@ -1,7 +1,6 @@
-# Xeno AI — Mini CRM
+# AI native — Mini CRM
 
 > AI-native campaign management for D2C brands.  
-> Built as part of the Xeno Engineering Internship Assignment 2026.
 
 <br/>
 
@@ -28,7 +27,7 @@ Password:  demo123
 
 ## What I Built
 
-Xeno AI is a **chat-first AI-native Mini CRM** built that helps a brand intelligently reach its shoppers. Instead of a traditional dashboard with forms and dropdowns, the primary interface is a natural language conversation. The marketer describes their intent, and the AI segments customers, drafts messages, previews campaigns, and launches them — all from a single chat.
+It is a **chat-first AI-native Mini CRM** built that helps a brand intelligently reach its shoppers. Instead of a traditional dashboard with forms and dropdowns, the primary interface is a natural language conversation. The marketer describes their intent, and the AI segments customers, drafts messages, previews campaigns, and launches them — all from a single chat.
 
 The core product insight: **a marketer should never have to think in SQL or filters.** They should just say what they want.
 
@@ -326,10 +325,8 @@ VITE_SUPABASE_PUBLISHABLE_KEY= # Same as SUPABASE_PUBLISHABLE_KEY (for client bu
 
 ## About
 
-Built by **Riddhi Kumari** for the Xeno Engineering Internship 2026.
+Built by **Riddhi Kumari** 
 
-Xeno helps consumer brands reach their shoppers in meaningful, data-driven ways. This project is a demonstration of what an AI-native CRM could look like — not a traditional tool with AI bolted on, but a product where AI is the primary interface.
+AI native Mini CRM helps consumer brands reach their shoppers in meaningful, data-driven ways. This project is a demonstration of what an AI-native CRM could look like — not a traditional tool with AI bolted on, but a product where AI is the primary interface.
 
----
 
-_Submitted June 15, 2026 · riddhigupta0606@gmail.com_
